@@ -34,19 +34,14 @@ I'm Sriyans Rauniyar, an entry level JAVA/C system engineer and an undergraduate
 <br />
 
 
-#### 1.1.1. Bizness
-- :paperclip: [My Resume/CV]()
-- :email: thapanishan9@gmail.com
-
-
 #### 1.1.2. Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nishanprime.nishanprime)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RauniyarSriyans.RauniyarSriyans)
 
 
 ### GitHub Stats
 
-[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishanprime&hide=prs,contribs&theme=tokyonight)](https://github.com/nishanprime/github-readme-stats)
+[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RauniyarSriyans&hide=prs,contribs&theme=tokyonight)](https://github.com/RauniyarSriyans/github-readme-stats)
 
 <details>
 <summary>
