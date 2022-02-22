@@ -12,13 +12,13 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for a workplace to develop my skills and work with experienced mentor and co-workers
 - 📫 How to reach me: rauniyar@princeton.edu
-- ⚡ Fun fact: I play games, and I love to analyze financial position of a company.
+- ⚡ Fun fact: I am more into VC and I love to analyze financial position of a company.
 
 #### 1.0.1. Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-JAVA-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![MongoDB Badge](https://img.shields.io/badge/-mongo-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue)](#) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-teal?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=blue)](#) [![NextJS Badge](https://img.shields.io/badge/-Next.JS-lightyellow?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightblue)](#) 
+[![JAVA Badge](https://img.shields.io/badge/-JAVA-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![MongoDB Badge](https://img.shields.io/badge/-mongo-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue)](#) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-teal?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=blue)](#) [![NextJS Badge](https://img.shields.io/badge/-Next.JS-lightyellow?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightblue)](#) 
 
 ### 1.1. Also Into:
 
