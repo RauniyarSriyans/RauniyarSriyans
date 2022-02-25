@@ -30,15 +30,15 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 
-### Also Into:
+#### Also Into:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](#) [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](#) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](#) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](#) 
 
-### GitHub Stats
+#### GitHub Stats
 
 [![Sriyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=RauniyarSriyans&hide=prs,contribs&theme=tokyonight)](https://github.com/RauniyarSriyans/github-readme-stats)
 
-### Coding Stats (Last 7 days)
+#### Coding Stats (Last 7 days)
   
 <!--START_SECTION:waka-->          
 <!--END_SECTION:waka-->
