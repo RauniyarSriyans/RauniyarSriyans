@@ -18,7 +18,7 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![JAVA Badge](https://img.shields.io/badge/-JAVA-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![MongoDB Badge](https://img.shields.io/badge/-mongo-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Latex Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-lightblue?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue)](#) [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-teal?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=blue)](#) [![NextJS Badge](https://img.shields.io/badge/-Next.JS-lightyellow?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightblue)](#) 
+[![JAVA Badge](https://img.shields.io/badge/-JAVA-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![C Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#) [![R Badge](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#) [![Latex Badge](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](#) 
 
 ### 1.1. Also Into:
 
@@ -34,14 +34,12 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 <br />
 
 
-#### 1.1.2. Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RauniyarSriyans.RauniyarSriyans)
 
 
 ### GitHub Stats
 
-[![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RauniyarSriyans&hide=prs,contribs&theme=tokyonight)](https://github.com/RauniyarSriyans/github-readme-stats)
+[![Sriyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=RauniyarSriyans&hide=prs,contribs&theme=tokyonight)](https://github.com/RauniyarSriyans/github-readme-stats)
 
 <details>
 <summary>
