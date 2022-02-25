@@ -40,5 +40,5 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 
 ### Coding Stats (Last 7 days)
   
-<!--START_SECTION:waka-->          
-<!--END_SECTION:waka-->
+<!--START_SECTION:Waka Readme-->          
+<!--END_SECTION:Waka Readme-->
