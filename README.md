@@ -42,3 +42,5 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
   
 <!--START_SECTION:waka-->          
 <!--END_SECTION:waka-->
+
+<img src="https://github.com/RauniyarSriyans/RauniyarSriyans/blob/master/images/codeStats.svg" alt="Coding Stats"/>
