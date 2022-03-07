@@ -40,7 +40,12 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 
 #### Coding Stats (Last 7 days)
   
-<!--START_SECTION:waka-->          
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/RauniyarSriyans/RauniyarSriyans/blob/master/images/codeStats.svg" alt="Coding Stats"/>
