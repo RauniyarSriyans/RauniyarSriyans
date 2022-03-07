@@ -47,5 +47,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://github.com/RauniyarSriyans/RauniyarSriyans/blob/master/images/codeStats.svg" alt="Coding Stats"/>
