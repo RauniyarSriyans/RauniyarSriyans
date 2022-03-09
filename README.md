@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 ## Hi I'm SRIYANS <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an undergraduate student at Princeton University. I spend my free time coding projects, learning online, playing club sports, and travelling.
