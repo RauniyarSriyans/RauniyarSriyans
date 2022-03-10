@@ -44,9 +44,9 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 52 mins    █████████████████████▒░░░   84.72 %
-Java             15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Other            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python           3 hrs 27 mins   ██████████████████████▓░░   90.98 %
+Java             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
