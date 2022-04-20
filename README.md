@@ -43,8 +43,10 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 <!--START_SECTION:waka-->
 
 ```text
-C                19 mins         ████████████████▒░░░░░░░░   65.90 %
-ca65 assembler   9 mins          ████████▓░░░░░░░░░░░░░░░░   34.10 %
+ca65 assembler   1 hr 5 mins     ██████████▓░░░░░░░░░░░░░░   42.92 %
+C                41 mins         ███████░░░░░░░░░░░░░░░░░░   27.57 %
+Text             40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
