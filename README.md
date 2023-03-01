@@ -43,10 +43,10 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
 <!--START_SECTION:waka-->
 
 ```text
-Java             14 hrs 4 mins   ████████████████████████▒   97.37 %
-JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-TypeScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Java             10 hrs 44 mins  ████████████████████████░   96.59 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+TypeScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
