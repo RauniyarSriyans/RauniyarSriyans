@@ -42,7 +42,7 @@ I'm Sriyans Rauniyar, an entry level JAVA / C / Python system engineer and an un
   
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
